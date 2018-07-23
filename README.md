@@ -24,7 +24,7 @@ And then run the dev server:
 npm run dev
 ```
 
-## Running the tests
+### Running the tests
 
 ```
 npm test
